@@ -1,0 +1,20 @@
+{
+  "name": "speaktonote",
+  "version": "1.0.0",
+  "description": "Take notes by speech recognition",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Bhaskarasai chitturi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "lite-server": "^2.5.4",
+    "popper": "^1.0.1"
+  }
+}
